@@ -1,0 +1,155 @@
+{
+	"footer": {
+		"background": "#99ff99",
+		"elements": [
+			{
+				"type": "horizontal_rule",
+				"width": "3px"
+			},
+			{
+				"type": "title",
+				"alignment": "left",
+				"color": "#000066",
+				"font-size": "16px",
+				"text": "Turpis lorem inceptos"
+			},
+			{
+				"type": "horizontal_rule",
+				"width": "1px"
+			},
+			{
+				"type": "title",
+				"alignment": "center",
+				"color": "#000077",
+				"font-size": "13px",
+				"text": "This website has no copyright holder, 2016"
+			}
+		],
+		"size": {
+			"x": "100%",
+			"y": "300px"
+		}
+	},
+	"header": {
+		"background": "#6699ff",
+		"elements": [
+			{
+				"type": "title",
+				"alignment": "center",
+				"color": "#FFFFFF",
+				"font-weight": "bold",
+				"font-size": "30px",
+				"text": "900 Searchable works of lorem ipusm literature"
+			},
+			{
+				"type": "title",
+				"alignment": "center",
+				"color": "#DDDDDD",
+				"text-shadow": "2px 2px #555555",
+				"font-size": "20px",
+				"text": "This site was automatically generated from a JSON file"
+			}
+		],
+		"margin": {
+			"bottom": "30px",
+			"top": "20px"
+		},
+		"size": {
+			"x": "100%",
+			"y": "150px"
+		}
+	},
+	"main": [
+		{
+			"type": "menu",
+			"position": "left",
+			"background": "#ccffff",
+			"elements": [
+				{
+					"type": "link",
+					"color": "#cc3300",
+					"padding": {
+						"left": "10px"
+					},
+					"text": "Home",
+					"url": "https://www.google.com/"
+				},
+				{
+					"type": "link",
+					"color": "#cc3300",
+					"padding": {
+						"left": "10px"
+					},
+					"text": "About Us",
+					"url": "https://www.imdb.com/"
+				},
+				{
+					"type": "link",
+					"color": "#006699",
+					"padding": {
+						"left": "15px"
+					},
+					"text": "Support",
+					"url": "https://www.opswat.com/"
+				},
+				{
+					"type": "link",
+					"color": "#cc3300",
+					"padding": {
+						"left": "10px"
+					},
+					"text": "Contact",
+					"url": "https://www.comcast.com/"
+				}
+			],
+			"padding": {
+				"bottom": "50px",
+				"left": "10px",
+				"right": "30px",
+				"top": "10px"
+			},
+			"size": {
+				"x": "300px",
+				"y": "800px"
+			}
+		},
+		{
+			"type": "content",
+			"position": "right",
+			"background": "#ffffcc",
+			"elements": [
+				{
+					"type": "paragraph",
+					"color": "#000000",
+					"font-size": "12px",
+					"text": "Lorem ipsum dolor sit amet, dictum libero massa. Habitasse nam vitae. Ligula volutpat pretium, massa pharetra mi, habitasse cursus. Id quam, amet quam adipiscing, ipsum sit mauris. Massa vel lectus. Mauris labore sed, eu vel, suscipit lorem nam."
+				},
+				{
+					"type": "paragraph",
+					"color": "#000005",
+					"font-size": "13px",
+					"text-decoration": "underline",
+					"text": "Consectetuer quisque. Dolor nulla phasellus. Pulvinar at turpis, posuere luctus vestibulum. Ipsum magna, viverra massa, et mauris nulla. Lobortis ea, purus lacus. Nonummy mollis, felis amet urna, nulla vitae quisque."					
+				},
+				{
+					"type": "paragraph",
+					"color": "#00000a",
+					"font-size": "14px",
+					"text": " Tristique risus aut. Vestibulum id, facere arcu. Orci laoreet magnis, nec sollicitudin, elit vestibulum. Pede tincidunt, et nulla quam. In ut, cras varius, sit neque condimentum."
+				}
+			],
+			"padding": {
+				"all": "10px"
+			},
+			"size": {
+				"x": "500px",
+				"y": "800px"
+			}
+		}
+	],
+	"metadata": {
+		"description": "Home page, storing precious lorem ipsum texts since 1999",
+		"keywords": "HTML, generated, automatically, page, internet, memes, library, internet2",
+		"title": "Automatically Generated HTML Page"
+	}
+}
